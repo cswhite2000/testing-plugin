@@ -1,0 +1,6 @@
+name: ${name}
+version: ${version}-${git.commit.id.abbrev}
+description: ${description}
+author: cs_
+main: ${plugin.mainClass}
+prefix: ${plugin.prefix}
