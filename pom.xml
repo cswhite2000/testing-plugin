@@ -38,13 +38,8 @@
             <version>4.1.0</version>
         </dependency>
         <dependency>
-            <groupId>tc.oc</groupId>
-            <artifactId>sportbukkit-api</artifactId>
-            <version>1.12.2-R0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>tc.oc</groupId>
-            <artifactId>sportbukkit</artifactId>
+            <groupId>org.spigotmc</groupId>
+            <artifactId>spigot-api</artifactId>
             <version>1.12.2-R0.1-SNAPSHOT</version>
         </dependency>
         <!--Command Framework-->
